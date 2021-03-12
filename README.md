@@ -1,4 +1,4 @@
-# ***Lab # 5 Taller de Arquitecturas de Servidores y Aplicaciones***
+# ***Lab # 5 Taller de modularización con virtualización, Docker y AWS
 
 ## Introducción Del Proyecto
 
@@ -18,7 +18,7 @@ En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y ser
     * [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - Despligue de Ambiente Web
 
 
-### Despliegue con Heroku App
+### AWS Virtual Machine
 
 >[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://sheltered-woodland-90071.herokuapp.com/)
 
