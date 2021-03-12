@@ -49,7 +49,9 @@ En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y ser
 
        mvn javadoc:javadoc
    
- 
+ 5. Si desea ejecutar el programa de forma local, procedemos a ejecutar el siguiente comando:
+
+       java -cp target/classes edu.escuelaing.arep.RoundRobin.SparkWebServer
 
 ## Corriendo Pruebas
 
