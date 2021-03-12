@@ -15,7 +15,8 @@ En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y ser
     * [Java 11](https://www.java.com/es/) - Codificación
     * [Maven](https://maven.apache.org/) - Manejo de Dependencias
     * [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - Control de Sistemas de veriones.
-    * [Heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) - Despligue de Ambiente Web
+    * [AWS](https://aws.amazon.com/es/education/awseducate/) - Despligue de Ambiente Web
+    * [CircleCI](https://circleci.com/) - Calidad y ejecución del codigo
 
 
 ### AWS Virtual Machine
@@ -26,15 +27,12 @@ En este laboratorio 4 Introducción a esquemas de nombres, redes, clientes y ser
 ### Integracion Continua con Circle CI
 >[![CircleCI](https://circleci.com/gh/The-Developers-Eci/2020-2-PROYCVDS-THE_DEVELOPERS_ECI.svg?style=svg)](https://app.circleci.com/pipelines/github/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS)
 >
-### Calidad Del Código con Codacy
-
->[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b62c449e43f24a86803f524a67d373ea)](https://app.codacy.com/gh/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS/dashboard)
 
 ### Guia de Instalación
 
 1. Primero se debe clonar el repositorio, con el siguiente comando descrito:
 
-       git clone https://github.com/Fabimauri47/-AREP-Lab3-CLIENTES-Y-SERVICIOS
+       git clone https://github.com/Fabimauri47/-AREP-Lab5-MODULARIZACI-N-CON-VIRTUALIZACI--E-INTRODUCCI-N-A-DOCKER-Y-AWS
     
 
 2. Luego proceda abrir el cmd (Ventana de comandos) en donde tiene el repositorio alojado y ejecute el siguiente comando:
@@ -71,6 +69,8 @@ Para correr las pruebas, usamos el siguiente comando en una terminal CMD o en un
 * [Java 11.0](https://www.java.com/es/) - Codificación y Lenguaje de Programacíon.
 * [Maven](https://maven.apache.org/) - Manejo de Dependencias.
 * [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/) - Programa usado para la Codificacíon.
+* [AWS](https://aws.amazon.com/es/education/awseducate/) - Despligue de Ambiente Web
+* [Docker](https://www.docker.com/) - Control y despliegue del proyecto
 
 
 ## Autor
